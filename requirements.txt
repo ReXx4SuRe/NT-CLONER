@@ -1,0 +1,9 @@
+pypresence
+discord
+asyncio
+colorama
+plaform
+pystyle
+sys
+time
+psutil
