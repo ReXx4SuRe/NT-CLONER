@@ -9,7 +9,7 @@
 - Then Extract Zip into Files
 - Then open CMD, after that write `pip install -r requirements.txt`
 - After That, Run `Cloner.EXE`
-
+- If you didn't understand any step then watch `NOT_A_GRABBER_KID.MP4`
 
 # Credits
 - ReX - rex.4sure#0
