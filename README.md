@@ -1,6 +1,9 @@
 # NT-CLONER
 - BEST CLONER MADE IN PYTHON .GG/NTOP, Made By [ReX](https://discordapp.com/users/910881343884390400/).
 
+![image](https://github.com/ReXx4SuRe/NT-CLONER/assets/161481850/fd294151-78c8-4951-ad1d-85b2e352d416)
+
+
 # SETUP
 - Download Cloner
 - Then Extract Zip into Files
