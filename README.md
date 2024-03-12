@@ -11,6 +11,15 @@
 - After That, Run `Cloner.EXE`
 - If you didn't understand any step then watch `NOT_A_GRABBER_KID.MP4`
 
+# Features
+- **Clone Channels:** Clone text and voice channels from one server to another.
+- **Channel Permissions:** Replicate channel-specific permissions in the destination server.
+- **Server Roles:** Duplicate roles along with their permissions to the target server.
+- **Server Name:** Change or set the name of the target server to match the source server.
+- **Server Banner / Avatar:** Transfer the server's banner or avatar image to the destination server.
+- **Server Emojis:** Copy emojis from one server to another.
+- **Server Settings:** Modify certain server settings to resemble those of the source server.
+
 # Credits
 - ReX - rex.4sure#0
 - Team - Team NTOP
